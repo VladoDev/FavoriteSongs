@@ -1,0 +1,14 @@
+/Users/vladimirgutierrez/Projects/Xamarin/FavoriteSongs/FavoriteSongs/FavoriteSongs/FavoriteSongs/bin/Debug/netstandard2.0/FavoriteSongs.deps.json
+/Users/vladimirgutierrez/Projects/Xamarin/FavoriteSongs/FavoriteSongs/FavoriteSongs/FavoriteSongs/bin/Debug/netstandard2.0/FavoriteSongs.dll
+/Users/vladimirgutierrez/Projects/Xamarin/FavoriteSongs/FavoriteSongs/FavoriteSongs/FavoriteSongs/bin/Debug/netstandard2.0/ref/FavoriteSongs.dll
+/Users/vladimirgutierrez/Projects/Xamarin/FavoriteSongs/FavoriteSongs/FavoriteSongs/FavoriteSongs/bin/Debug/netstandard2.0/FavoriteSongs.pdb
+/Users/vladimirgutierrez/Projects/Xamarin/FavoriteSongs/FavoriteSongs/FavoriteSongs/FavoriteSongs/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/vladimirgutierrez/Projects/Xamarin/FavoriteSongs/FavoriteSongs/FavoriteSongs/FavoriteSongs/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/vladimirgutierrez/Projects/Xamarin/FavoriteSongs/FavoriteSongs/FavoriteSongs/FavoriteSongs/obj/Debug/netstandard2.0/Views/WelcomePage.xaml.g.cs
+/Users/vladimirgutierrez/Projects/Xamarin/FavoriteSongs/FavoriteSongs/FavoriteSongs/FavoriteSongs/obj/Debug/netstandard2.0/FavoriteSongs.AssemblyInfoInputs.cache
+/Users/vladimirgutierrez/Projects/Xamarin/FavoriteSongs/FavoriteSongs/FavoriteSongs/FavoriteSongs/obj/Debug/netstandard2.0/FavoriteSongs.AssemblyInfo.cs
+/Users/vladimirgutierrez/Projects/Xamarin/FavoriteSongs/FavoriteSongs/FavoriteSongs/FavoriteSongs/obj/Debug/netstandard2.0/FavoriteSongs.csproj.CoreCompileInputs.cache
+/Users/vladimirgutierrez/Projects/Xamarin/FavoriteSongs/FavoriteSongs/FavoriteSongs/FavoriteSongs/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/vladimirgutierrez/Projects/Xamarin/FavoriteSongs/FavoriteSongs/FavoriteSongs/FavoriteSongs/obj/Debug/netstandard2.0/FavoriteSongs.dll
+/Users/vladimirgutierrez/Projects/Xamarin/FavoriteSongs/FavoriteSongs/FavoriteSongs/FavoriteSongs/obj/Debug/netstandard2.0/ref/FavoriteSongs.dll
+/Users/vladimirgutierrez/Projects/Xamarin/FavoriteSongs/FavoriteSongs/FavoriteSongs/FavoriteSongs/obj/Debug/netstandard2.0/FavoriteSongs.pdb

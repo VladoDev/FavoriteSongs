@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<prism:PrismApplication xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FavoriteSongs.App"
+             xmlns:prism="clr-namespace:Prism.Unity;assembly=Prism.Unity.Forms">
+    <Application.Resources>
+        <Color x:Key="AtomicTangerine">#ff934f</Color> 
+        <Color x:Key="BitterLemon">#c2e812</Color> 
+        <Color x:Key="LightGreen">#91f5ad</Color> 
+        <Color x:Key="SolidWhite">#ffffff</Color> 
+        <Color x:Key="AshGray">#bfcbc2</Color> 
+        <Color x:Key="AshGrayOpacity">#b3121613</Color> 
+        <Color x:Key="AshGray1">#121613</Color> 
+        <Color x:Key="AshGray2">#252d26</Color> 
+        <Color x:Key="AshGray3">#37433a</Color> 
+        <Color x:Key="AshGray4">#495a4d</Color> 
+    </Application.Resources>
+</prism:PrismApplication>

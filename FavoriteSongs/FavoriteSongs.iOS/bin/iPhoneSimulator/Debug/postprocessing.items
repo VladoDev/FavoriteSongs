@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="FavoriteSongs.iOS.app/FavoriteSongs.iOS">
+      <BCSymbolMapName>FavoriteSongs.iOS.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>FavoriteSongs.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>obj/iPhoneSimulator/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>FavoriteSongs.iOS.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/vladimirgutierrez/Projects/Xamarin/FavoriteSongs/FavoriteSongs/FavoriteSongs/FavoriteSongs.iOS</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
