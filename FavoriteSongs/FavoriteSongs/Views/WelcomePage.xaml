@@ -224,10 +224,11 @@
                 IsVisible="{Binding ShowAddPopup}"
                 RowSpacing="0">
                 <Frame
-                    VerticalOptions="FillAndExpand"
-                    Margin="20,150"
+                    HorizontalOptions="CenterAndExpand"
+                    VerticalOptions="CenterAndExpand"
                     BackgroundColor="{StaticResource SolidWhite}">
                     <Grid
+                        HorizontalOptions="FillAndExpand"
                         VerticalOptions="FillAndExpand"
                         RowSpacing="0"
                         RowDefinitions="auto,15,auto,15,auto,15,auto,15,auto,auto,auto,auto">
